@@ -6,5 +6,5 @@ get '/' do
 end
 
 def party
-  puts "I came to party"
+  puts "I came to the party to have a good time!"
 end
